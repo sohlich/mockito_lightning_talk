@@ -22,5 +22,9 @@
 
 # Demo time
 
+#Sources
+
+- http://www.vogella.com/tutorials/Mockito/article.html
+- https://github.com/mockito/mockito/wiki/What's-new-in-Mockito-2
 
 
